@@ -1,7 +1,8 @@
 *********************************
-*		Skills					*
+*		Skills Figs				*
 *								*
 *********************************
+
 global figfolder="$main/RA/reports/Fall of Generalists/Second Version/Skills/figures"
 global tabfolder="$main/RA/reports/Fall of Generalists/Second Version/Skills/tables"
 
