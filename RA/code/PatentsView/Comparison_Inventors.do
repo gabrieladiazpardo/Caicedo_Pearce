@@ -1,3 +1,9 @@
+********************
+*
+*		Facts
+*
+*
+
 
 *globals
 global figfolder="$main/RA/output/figfolder/comparison"
